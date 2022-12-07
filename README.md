@@ -3,11 +3,11 @@
 # Project name: SoundCloud (Remastered Edition)
 
 ## Member of group:
-* Nguyen Vinh Quang
+* Nguyen Duc Tuan: Develop entire application
 
-* Nguyen Duc Tuan
+* Nguyen Vinh Quang: Create Repo
 
-* Nguyen Hong Quan
+* Nguyen Hong Quan: Design Figma
 
 ## Week 2:
 ![image](https://user-images.githubusercontent.com/62581840/190585967-b3d588fb-f833-4b38-a78f-91b7c8ccfb34.png)
